@@ -1,0 +1,5 @@
+Django>=5.1,<5.2
+python-dotenv>=1.0
+dj-database-url>=2.2
+google-genai>=1.0
+django-ratelimit>=4.1
